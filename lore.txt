@@ -1,4 +1,4 @@
--- ANYTHING IN CAPITALS IS SUBJECT TO SIGNIFICANT CHANGE, SUBMIT YOUR SUGGESTIONS --
+-- DOCUMENT IS SUBJECT TO SIGNIFICANT CHANGE, SUBMIT YOUR SUGGESTIONS TO tablesmap#5679--
 
 MARINES?
 ODST?
@@ -10,4 +10,4 @@ SPARTAN?
 		
 	2553-11-10
 		
-Planet is TAPHAE CANNAE. The UNSC is unstable following the Human-Covenant War
+Planet is Hellas. The UNSC is unstable following the Human-Covenant War
